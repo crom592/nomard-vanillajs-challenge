@@ -1,1 +1,1 @@
-# holyfavro.nomard-vanillajs-challenge.github.io
+# nomard-vanillajs-challenge
